@@ -3,7 +3,7 @@ spark-chrome
 
 一款用在Chrome 浏览器上的 虾米音乐 插件
 
-项目地址
+项目地址:
 --------
 <https://github.com/noyobo/spark-chrome>
 
@@ -46,6 +46,10 @@ spark-chrome
 *	增加 Notification 面板鼠标 悬停/滑离 显示控制
 *	增加 Notification 呼出快捷键  Shift + ctrl|alt + x  `面板可操作` (快捷键仅在chrome浏览器激活状态下可用)
 
+改进建议:
+---------
+如果你有更好的改进建议,欢迎下面的地址提交给我 :)
+<https://github.com/noyobo/spark-chrome/issues/1>
 
 [crx]: http://192.168.5.117:9527/spark-chrome.crx
 [虾米网]: http://www.xiami.com/ "虾米音乐网"
