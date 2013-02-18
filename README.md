@@ -11,7 +11,7 @@ spark-chrome
 ><http://192.168.5.117:9527/spark-chrome.crx>
 
 **安装方法**
->chrome 浏览器下 进入[扩展程序](chrome://extensions/) 把下载好的 [crx]文件 拖入 后重启浏览器.
+>chrome 浏览器下 进入[工具-扩展程序]``chrome://extensions/`` 把下载好的 [crx]文件 拖入 后重启浏览器.
 
 插件介绍:
 ------
